@@ -48,8 +48,8 @@
 
 .social__img {
     display: block;
-    width: 70px;
-    height: 70px;
+    width: 100px;
+    height: 100px;
     object-fit: cover;
     border-radius: 50%;
 }
