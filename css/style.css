@@ -33,7 +33,7 @@
 .social {
     background-color: var(--grey-800);
     border-radius: 20px;
-    padding: 2rem;
+    padding: 2rem 1.8rem;
     width: 85%;
     margin-inline: auto;
     max-width: 400px
